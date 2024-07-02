@@ -1,0 +1,52 @@
+body {
+background-image: url(/kayaking-on-river.jpg);
+background-size: cover;
+margin: auto;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+align-items: center;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 200px;
+    
+}
+
+article {
+    background-color: white;
+    align-items: center;
+    width: 35%;
+    margin-left: 400px;
+    padding: 10px 0px;
+}
+
+
+.container h1{
+font-size: 25px;
+color: black;
+margin-left: 59px;
+
+}
+
+#count-el {
+    margin-left: 160px;
+}
+
+
+button {
+    background-color: rgb(51, 96, 51);
+    color: white;
+    border: rgb(51, 96, 51);
+    padding: 12px 80px ;
+    border-radius: 8px 8px 8px 8px ;
+    margin-top: 10px;
+    margin-left: 60px;
+    margin-bottom: 10px;
+}
+
+#entry-el {
+    margin-left: 60px;
+  
+}
